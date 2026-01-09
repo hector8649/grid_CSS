@@ -3,9 +3,10 @@
   width: 100%;
   background-color: LightGray;
   display: grid;
-  grid-template-columns: 1fr 100px 2fr;
-    grid-template-rows: 50px 50px;
-    grid-row:5px 5px; ;
+  grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px;
+    column-gap: 20px;
 }
 .d1{
        background-color: lightblue;
