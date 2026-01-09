@@ -1,0 +1,21 @@
+.container {
+  font-size: 40px;
+  width: 100%;
+  background-color: LightGray;
+  display: grid;
+}
+.d1{
+       background-color: lightblue;
+}
+.d2{
+    background-color: orange;
+}
+.d3{
+    background-color: lightcyan;
+}
+.d4{
+    background-color: pink;
+}
+.d5{
+    background-color: lightgreen;
+}
